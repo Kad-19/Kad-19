@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kidus</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 
+<img align="right" alt="coding" width="400" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kad-19&label=Profile%20views&color=0e75b6&style=flat" alt="kad-19" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kad-19" alt="kad-19" /></a> </p>
