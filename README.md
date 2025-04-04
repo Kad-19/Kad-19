@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kidus</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+<h3 align="center">A passionate web developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kad-19&label=Profile%20views&color=0e75b6&style=flat" alt="kad-19" /> </p>
 
