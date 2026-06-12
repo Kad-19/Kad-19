@@ -2,8 +2,7 @@
 <h3 align="center">A Software Engineer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kad-19&label=Profile%20views&color=0e75b6&style=flat" alt="kad-19" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kad-19" alt="kad-19" /></a> </p>
+<p align="left">  </p>
 
 - 🔭 I’m currently working on [AI-assisted computerized machinery maintenance management system](https://ai-cms-frontend.vercel.app/)
 
